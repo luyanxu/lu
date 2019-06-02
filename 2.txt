@@ -12,3 +12,4 @@ lu1_1
 lu success3
 lu success3
 lu success3
+lu1_2
