@@ -29,5 +29,7 @@ lu success1
 lu success2
 lu success5
 
+lu 1
+
 
 
